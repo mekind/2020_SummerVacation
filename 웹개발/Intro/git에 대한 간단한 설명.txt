@@ -1,0 +1,32 @@
+mkdir ->>> 사용할 폴더 설정
+
+git init ->> git 사용환경 구축
+
+
+git config --global user.name ""
+git config --global user.email ""
+
+git add "" ->> 관리할 파일 추가
+
+git commit -m ""   ->>  버젼 추가
+
+버젼 돌아가기  : reset vs revert 
+
+git reset --hard  : 원하는 버젼 이후를 삭제하고 돌아감
+
+git revert   :  추후에 설명
+
+------------------------------------------------------------------
+
+많이 사용되는 명령어를 우선적으로 공부하자 
+
+git commit -help  ->>> 옵션 알려줌
+
+object 파일명 --> sha1 해싱 값
+
+-------------------------------------------------------------------
+branches 
+
+git branch username --> branch 추가
+
+git log --branches --decorate --graph
