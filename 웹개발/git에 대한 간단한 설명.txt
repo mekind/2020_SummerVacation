@@ -22,3 +22,11 @@ git revert   :  추후에 설명
 
 git commit -help  ->>> 옵션 알려줌
 
+object 파일명 --> sha1 해싱 값
+
+-------------------------------------------------------------------
+branches 
+
+git branch username --> branch 추가
+
+git log --branches --decorate --graph

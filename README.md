@@ -9,4 +9,8 @@ Front/Back-End, Algorithm
 
 이번 방학부터 github를 사용해 보려 한다.
 
-이번 방학의 목표는 FullStack 개발자가 되는 것! 화이팅
+이번 방학의 목표는 FullStack 개발자가 되는 것!
+
+(메인은 Backend)
+
+화이팅
