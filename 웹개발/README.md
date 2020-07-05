@@ -2,10 +2,10 @@
 ### 출처: [RoadMap](https://github.com/kamranahmedse/developer-roadmap
 
 #### 기본 지식
-<img src="./intro.png">
+<img src="./img/intro.png">
 
 #### FrontEnd
-<img src="./frontend.png">
+<img src="./img/frontend.png">
 
 #### BackEnd
-<img src="./backend.png">
+<img src="./img/backend.png">
