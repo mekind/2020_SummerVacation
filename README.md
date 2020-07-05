@@ -1,7 +1,8 @@
 # 2020_SummerVacation
-Front/Back-End, Algorithm
 
-처음으로 써보는 github 
+## Front/Back-End, Algorithm
+***
+### 처음으로 써보는 github 
 
 내가 한 활동 내용들을 기록하는 것이 
 
@@ -15,40 +16,43 @@ Front/Back-End, Algorithm
 
 화이팅
 
+***
+### 공부 List
 
-공부 List
-
-	-웹개발 (출처 : https://github.com/kamranahmedse/developer-roadmap)
-		-Intro (2018년 버젼은 5개가 끝이던데ㅠㅠ)
-
-			git - Version Control -------> O (생활코딩) 20200705 //모든 파트를 다 듣진 않았음 
-			Basic Terminal Usage --------> O (리눅스 마스터 공부 + AWS 서버 구축 하면서 충분히 공부했다고 봄)  
-			// 추후에 리눅스에 대해서 더 파고 들자!
-			Data Structures& Algorithm --> O (학교에서 배운 걸로 충분하겠지?)
-			GitHub   --------------------> O (생활코딩) 20200705
-			Licenses --------------------> ?? //(이게 뭐지? 법 관련된 거 같은데 나중에 필요하면 공부하겠음) 
-			Semantic Vesioning ----------> O (x.x.x 버젼 이름 법칙, 구글링함) 20200705
-			SSH -------------------------> O (생활코딩)
-			HTTP/HTTPS and APIs ---------> 책으로 공부할 예정
-			Design Patterns
-			Character Encodings 
-
-		-Front-End
-
-
-		-Back-End	
-
-			-Internet
-
-				HTTP
-				Browser
-				DNS
-				Hosting
-
-			-Bascis Frontend Knowledge 
-
-				CSS -----------------------> O
-				JavaScript ----------------> O
-				HTML ----------------------> O
-				
-				이 부분은 이미 1학기에 시간 날 때마다 공부했었음 (비대면 수업 개꿀!)
+<ul>
+    <li>웹개발 (출처: [RoadMap](https://github.com/kamranahmedse/developer-roadmap) )<br></li>
+    <ul>
+        <li>Intro (2018년 버젼은 5개가 끝이던데ㅠㅠ)<br></li>
+        <ul>
+            <li><del>git - Version Control</del> -------> (생활코딩) 20200705 //모든 파트를 다 듣진 않았음 <br></li>
+            <li><del>Basic Terminal Usage</del> --------> (리눅스 마스터 공부 + AWS 서버 구축 하면서 충분히 공부했다고 봄)<br>// 추후에 리눅스에 대해서 더 파고 들자!<br> </li>
+            <li><del>Data Structures& Algorithm</del> --> (학교에서 배운 걸로 충분하겠지?)<br></li>
+            <li><del>GitHub</del>   --------------------> (생활코딩) 20200705<br></li>
+            <li>Licenses --------------------> ?? //(이게 뭐지? 법 관련된 거 같은데 나중에 필요하면 공부하겠음)<br> </li>
+            <li><del>Semantic Vesioning</del> ----------> (x.x.x 버젼 이름 법칙, 구글링함) 20200705<br></li>
+            <li><del>SSH</del> -------------------------> (생활코딩)<br></li>
+            <li><del>HTTP/HTTPS and APIs</del> ---------> 책으로 공부할 예정<br></li>
+            <li>Design Patterns<br></li>
+            <li>Character Encodings <br></li>
+        </ul>
+        <li>-Front-End<br></li>
+        <li>-Back-End<br></li>
+        <ul>
+            <li>Internet</li>
+            <ul>
+                <li>HTTP</li>
+                <li>Browser</li>
+                <li>DNS</li>
+                <li>Hosting</li>
+            </ul>
+            <li>Bascis Frontend Knowledge</li>
+            <ul>
+                <li><del>CSS</del> -----------------------> 올해 1학기에 공부함</li>
+                <li><del>JavaScript</del> ----------------> 올해 1학기에 공부함</li>
+                <li><del>HTML</del> ----------------------> 올해 1학기에 공부함<br>싸강 개꿀! </li>
+                <li>Hosting</li>
+            </ul>
+        </ul>
+    </ul>
+</ul>
+***
