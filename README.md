@@ -22,7 +22,7 @@
 <ul>
     <li>웹개발 (출처: [RoadMap](https://github.com/kamranahmedse/developer-roadmap) )<br></li>
     <ul>
-        <li>Intro (2018년 버젼은 5개가 끝이던데ㅠㅠ)<br></li>
+        <li>Intro </li>
         <ul>
             <li><del>git - Version Control</del> -------> (생활코딩) 20200705 //모든 파트를 다 듣진 않았음 <br></li>
             <li><del>Basic Terminal Usage</del> --------> (리눅스 마스터 공부 + AWS 서버 구축 하면서 충분히 공부했다고 봄)<br>// 추후에 리눅스에 대해서 더 파고 들자!<br> </li>
