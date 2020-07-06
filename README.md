@@ -1,9 +1,11 @@
 # 2020_SummerVacation
 
 ## Front/Back-End, Algorithm
-***
-### 처음으로 써보는 github 
 
+<br><br>
+
+### 처음으로 써보는 github 
+***
 내가 한 활동 내용들을 기록하는 것이 
 
 미래의 나에게 훌륭한 자산이 될 것을 기대하며
@@ -15,10 +17,10 @@
 (메인은 Backend)
 
 화이팅
-
-***
+<br>
+<br>
 ### 공부 List
-
+***
 <ul>
     <li>웹개발 (출처: [RoadMap](https://github.com/kamranahmedse/developer-roadmap) )<br></li>
     <ul>
