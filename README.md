@@ -1,8 +1,8 @@
 # 2020_SummerVacation
 
-## Front/Back-End, Algorithm
+### (Front/Back-End, Algorithm)
 
-<br><br>
+<br>
 
 ### 처음으로 써보는 github 
 ***
@@ -12,7 +12,7 @@
 
 이번 방학부터 github를 사용해 보려 한다.
 
-이번 방학의 목표는 FullStack 개발자가 되는 것!
+이번 방학의 목표는 FullStack 개발자가 되는 것! + Algorithm 대회 수상!  ~~(군대 좀 편하게 가자)~~
 
 (메인은 Backend)
 
