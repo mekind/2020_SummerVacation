@@ -1,9 +1,11 @@
 # 2020_SummerVacation
 
 ## Front/Back-End, Algorithm
-***
-### 처음으로 써보는 github 
 
+<br><br>
+
+### 처음으로 써보는 github 
+***
 내가 한 활동 내용들을 기록하는 것이 
 
 미래의 나에게 훌륭한 자산이 될 것을 기대하며
@@ -15,14 +17,14 @@
 (메인은 Backend)
 
 화이팅
-
-***
+<br>
+<br>
 ### 공부 List
-
+***
 <ul>
     <li>웹개발 (출처: [RoadMap](https://github.com/kamranahmedse/developer-roadmap) )<br></li>
     <ul>
-        <li>Intro (2018년 버젼은 5개가 끝이던데ㅠㅠ)<br></li>
+        <li>Intro </li>
         <ul>
             <li><del>git - Version Control</del> -------> (생활코딩) 20200705 //모든 파트를 다 듣진 않았음 <br></li>
             <li><del>Basic Terminal Usage</del> --------> (리눅스 마스터 공부 + AWS 서버 구축 하면서 충분히 공부했다고 봄)<br>// 추후에 리눅스에 대해서 더 파고 들자!<br> </li>
@@ -55,4 +57,5 @@
         </ul>
     </ul>
 </ul>
+<br>
 ***
