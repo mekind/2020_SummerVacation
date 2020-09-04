@@ -1,6 +1,6 @@
-# 2020_SummerVacation
-
+# 2020_SummerVacation ( ~8/31, 결말 : 공부는 나름 했지만 정리하여 커밋하기는 실패! 다른 프로젝트에 정리할 예정)
 ### (Front/Back-End, Algorithm)
+
 
 <br>
 
